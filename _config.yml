@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hymin Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Hyeonmin Choi"
+description              : "경영학 전공 PM의 개발자 전향 프로젝트 블로그"
 url                      : "https://igen-hymin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "개발자(?) 도꼬비"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "경영학 전공 PM의 **본격 개발자 전향** 프로젝트."
+  location         : "South Korea"
+  email            : "igen.hymin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
